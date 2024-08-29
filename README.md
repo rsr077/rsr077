@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **C Language**
+- 🌱 I’m currently learning **java in DSA and WebDev**
 
 - 📫 How to reach me **rajeevsinghrajput077@gmail.com**
 
